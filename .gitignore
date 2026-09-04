@@ -1,1 +1,6 @@
 .vscode/settings.json
+s3-public-audit/terraform/.terraform.lock.hcl
+s3-public-audit/terraform/terraform.tfstate
+s3-public-audit/terraform/.terraform/providers/registry.terraform.io/hashicorp/aws/6.12.0/darwin_amd64/LICENSE.txt
+s3-public-audit/terraform/.terraform/providers/registry.terraform.io/hashicorp/aws/6.12.0/darwin_amd64/terraform-provider-aws_v6.12.0_x5
+s3-public-audit/terraform/terraform.tfstate.backup

@@ -1,0 +1,37 @@
+{
+  "anniej-access-key": {
+    "sensitive": true,
+    "type": [
+      "object",
+      {
+        "create_date": "string",
+        "encrypted_secret": "string",
+        "encrypted_ses_smtp_password_v4": "string",
+        "id": "string",
+        "key_fingerprint": "string",
+        "pgp_key": "string",
+        "secret": "string",
+        "ses_smtp_password_v4": "string",
+        "status": "string",
+        "user": "string"
+      }
+    ],
+    "value": {
+      "create_date": "2026-09-05T10:27:48Z",
+      "encrypted_secret": null,
+      "encrypted_ses_smtp_password_v4": null,
+      "id": "LKIAQAAAAAAAJNMMRXK7",
+      "key_fingerprint": null,
+      "pgp_key": null,
+      "secret": "NrGBhJt/x1MSi9D11I8opDYg3GWO3YNBMHW2JM2f",
+      "ses_smtp_password_v4": "BAW6IrCJlVYYVtPaSpYZoNPt5iiXv5Utfv2xwdZIIVCi",
+      "status": "Active",
+      "user": "anniej"
+    }
+  },
+  "anniej-secret-key": {
+    "sensitive": true,
+    "type": "string",
+    "value": "NrGBhJt/x1MSi9D11I8opDYg3GWO3YNBMHW2JM2f"
+  }
+}

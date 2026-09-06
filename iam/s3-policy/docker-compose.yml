@@ -1,0 +1,10 @@
+services:
+  my-aws:
+    image: localstack/localstack:4.4.0
+    container_name: my-aws
+    ports:
+      - "4566:4566"
+    environment:
+      - SERVICES=iam,sts,s3
+      - AWS_DEFAULT_REGION=us-east-1
+      - ENFORCE_IAM=1
